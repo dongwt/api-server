@@ -1,5 +1,5 @@
-# api-server
-![build](https://travis-ci.org/shildondu/api-server.svg?branch=master)
+# api-server ![build](https://travis-ci.org/shildondu/api-server.svg?branch=master)
+
 This is a demo for using springfox to generate api docs in springmvc project.
 
 # Usage
